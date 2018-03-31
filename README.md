@@ -5,6 +5,7 @@
 Through A Pinhole WordPress Theme
 
 Author: Dave Feucht
+
 Version: 1.0
 
 WordPress theme for a Photo Portfolio site, written in PHP, jQuery and Javascript
